@@ -30,3 +30,8 @@ Benefits of implementing a Coding Standard
   - Errors/bugs and other potential problems in the code are easier to identify when conventions are obeyed.
   - These bugs stick out within the code so easier to locate.
   - Future proofing due to early problem identification. Solving problems early can help prevents future problems.
+
+
+ - ### Reduced Refactoring needed.
+
+  - Adhering to code rules allows you to have correct code the first time, or at least close to correct.
