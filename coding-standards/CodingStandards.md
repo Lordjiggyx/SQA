@@ -23,3 +23,10 @@ Benefits of implementing a Coding Standard
   - Following standards means that project maintainability in the future is possible
   - Code is predictable.
   - The source code appears as if it was written by one person in one sitting, rather than many bits of mismatched code stuck together.
+
+
+ - ### Identify Problems.
+
+  - Errors/bugs and other potential problems in the code are easier to identify when conventions are obeyed.
+  - These bugs stick out within the code so easier to locate.
+  - Future proofing due to early problem identification. Solving problems early can help prevents future problems.
