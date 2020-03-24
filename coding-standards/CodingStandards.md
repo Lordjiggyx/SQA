@@ -16,3 +16,10 @@ Benefits of implementing a Coding Standard
   - Following conventions can reduce inadvertent or deliberate code duplication.
   - With consistent naming conventions and clear logic that will be easily understood, cloned functionality is less likely.
   - This promotes code re-use across the team which speeds up development.
+
+
+- ### Maintainability.
+
+  - Following standards means that project maintainability in the future is possible
+  - Code is predictable.
+  - The source code appears as if it was written by one person in one sitting, rather than many bits of mismatched code stuck together.
