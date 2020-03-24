@@ -9,3 +9,10 @@ Benefits of implementing a Coding Standard
   - Adherence to coding standards allows one’s code to be better understood.
   - Self-Explanatory code shortens and simplifies the review process.
   - Reduces the need for verbose commenting to describe what each component does.
+
+
+- ### Less Duplication.
+
+  - Following conventions can reduce inadvertent or deliberate code duplication.
+  - With consistent naming conventions and clear logic that will be easily understood, cloned functionality is less likely.
+  - This promotes code re-use across the team which speeds up development.
