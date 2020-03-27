@@ -46,3 +46,9 @@ Common areas covered by coding conventions\
   - Consistent naming of variables, functions and classes throughout project.
   - Clear. Most importantly meaningful names. Descriptive.
   - This aspect Must be peer reviewed. Can’t be automated to determine if name of a entity is suitable.
+
+- ### Complexity.
+
+  - Number of conditions.
+  - Cyclomatic complexity. Measures possible unique paths. (Quantitative measure).
+  - Automatable with SonarQube.
