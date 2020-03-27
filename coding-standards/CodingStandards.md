@@ -59,3 +59,12 @@ Common areas covered by coding conventions\
   - Smaller the method, the easier it is to name and understand.
   - The same with classes, classes often become too big where functionality gets added but never taken away leading to bloated classes.
   - Automatable with SonarQube, to enforce classes remain under certain size.
+
+- ### Readability
+
+  - How Easy it is to read, thus comprehend.
+  - Includes formatting conventions. Indentations, Line breaks, whitespaces etc.
+  - Must be peer reviewed to ensure it’s easily comprehended by human readers.
+
+\
+SonarQube is an automatic code review tool that detects bugs, vulnerabilities and other potential issues in source code. It can be used to assist in maintaining coding standards.
