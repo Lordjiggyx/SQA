@@ -52,3 +52,10 @@ Common areas covered by coding conventions\
   - Number of conditions.
   - Cyclomatic complexity. Measures possible unique paths. (Quantitative measure).
   - Automatable with SonarQube.
+
+- ### Size
+
+  - The length of classes + methods.
+  - Smaller the method, the easier it is to name and understand.
+  - The same with classes, classes often become too big where functionality gets added but never taken away leading to bloated classes.
+  - Automatable with SonarQube, to enforce classes remain under certain size.
