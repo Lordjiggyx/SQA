@@ -10,13 +10,11 @@ Benefits of implementing a Coding Standard
   - Self-Explanatory code shortens and simplifies the review process.
   - Reduces the need for verbose commenting to describe what each component does.
 
-
-- ### Less Duplication.
+* ### Less Duplication.
 
   - Following conventions can reduce inadvertent or deliberate code duplication.
   - With consistent naming conventions and clear logic that will be easily understood, cloned functionality is less likely.
   - This promotes code re-use across the team which speeds up development.
-
 
 - ### Maintainability.
 
@@ -24,14 +22,19 @@ Benefits of implementing a Coding Standard
   - Code is predictable.
   - The source code appears as if it was written by one person in one sitting, rather than many bits of mismatched code stuck together.
 
+* ### Identify Problems.
 
- - ### Identify Problems.
+* Errors/bugs and other potential problems in the code are easier to identify when conventions are obeyed.
+* These bugs stick out within the code so easier to locate.
+* Future proofing due to early problem identification. Solving problems early can help prevents future problems.
 
-  - Errors/bugs and other potential problems in the code are easier to identify when conventions are obeyed.
-  - These bugs stick out within the code so easier to locate.
-  - Future proofing due to early problem identification. Solving problems early can help prevents future problems.
+- ### Reduced Refactoring needed.
 
+- Adhering to code rules allows you to have correct code the first time, or at least close to correct.
 
- - ### Reduced Refactoring needed.
+\
+When determining what coding standards, a team should implement, some things should be kept in mind.\
+Coding Standards should be very concise and not have personal opinions injected in. The goal of coding standards is to have a set of rules that each developer understands and ideally agrees with the reasoning plus enforcement of that rule. Implementing rules that are too restricting and tough to quantify are characteristics of bad coding standards. Good coding standards are easily understood and quantifiable.
 
-  - Adhering to code rules allows you to have correct code the first time, or at least close to correct.
+\
+The specific code styling varies from different organizations, programming languages as well as operating systems. The specific styling and rules chosen can be unique to any organization. There are some common areas/topics that coding standards cover.
