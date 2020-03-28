@@ -11,3 +11,13 @@ Project requirementsare almost never set in stone, there is always a chnache of 
 
 ### 3. Proper Time Allocation
 Most software development teams would rather **under-promise** and **over-deliver** rather then **over-promise** and **under-deliver**, this is done to avoid the scenario of not developing something that was promsised. If an entire day is allocaed to a certain task, you are more then likely gping to spend the whole day completing atasj that could be done in less time due to this generous padding of time. Tasks should be broken down accurately and assessed properly in order to allocate the right amount of time
+
+## References
+
+____
+
+[10 Reasons Why Software Estimates Fail](https://www.sitepoint.com/10-reasons-why-software-project-estimates-fail/)
+
+[SoftSoftware Estimation is a Losing Gameware](https://rclayton.silvrback.com/software-estimation-is-a-losing-game)
+
+[Time Estimation in Software Development](https://medium.com/globalluxsoft/time-estimation-in-software-development-a4a495c8eb6c)

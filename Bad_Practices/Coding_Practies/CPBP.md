@@ -19,3 +19,13 @@ Code with consitent style is much easier to read and understand, allowing the in
 
  ### 6. Testing
 Testing is critical to assessing how well your code works. Software that has not been tested can lead to devestating results upon release. While testing often relies on automated tools and specialized staff, developers should take an active role in the process. They should test each iteration to ensure that it meets the necessary requirements,. Many developers would think testing as a waste of time and would lead to extra time bein added onto the timeframe given to complete the project but as they say _"Better safe then sorry"_.
+
+## References
+
+____
+
+[Bad Coding Practices To Avoid.](https://searchsoftwarequality.techtarget.com/answer/What-are-some-bad-coding-practices-to-avoid)
+
+[10 Bad Coding Practices That Wreck Software Development Projects.](https://www.cio.com/article/2448952/10-bad-coding-practices-that-wreck-software-development-projects.html)
+
+[Top 5 Bad Coding Practices.](https://dev.to/blarzhernandez/top-5-bad-coding-practices-avoid-them-to-all-costs-2ab3)
