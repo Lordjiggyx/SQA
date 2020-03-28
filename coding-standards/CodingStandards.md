@@ -39,7 +39,7 @@ Coding Standards should be very concise and not have personal opinions injected 
 \
 The specific code styling varies from different organizations, programming languages as well as operating systems. The specific styling and rules chosen can be unique to any organization. There are some common areas/topics that coding standards cover.
 
-Common areas covered by coding conventions\
+Common areas covered by coding conventions:
 
 - ### Naming.
 
