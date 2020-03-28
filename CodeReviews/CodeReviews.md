@@ -6,9 +6,9 @@ A code review is the process by which programmers examine the code of their peer
 checking for bugs and to estimate the code quality. It has been shown to accelerate and streamline the software development process.
 
 A code review inolves checking for things like :
- * obvious logic errors in the code.
- * have the requirements for each use case been implemented?
- * are the current tests sufficient for the new code, will new tests need to be written?
+ * Obvious logic errors in the code.
+ * Have the requirements for each use case been implemented?
+ * Are the current tests sufficient for the new code, will new tests need to be written?
 
 
 
