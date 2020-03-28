@@ -68,3 +68,17 @@ Common areas covered by coding conventions:
 
 \
 SonarQube is an automatic code review tool that detects bugs, vulnerabilities and other potential issues in source code. It can be used to assist in maintaining coding standards.
+
+---
+
+#### References
+
+[Effective Coding Standards, Umer Mansoor](https://codeahoy.com/2016/05/22/effective-coding-standards/)
+
+[Google Java Style Guide, Google](https://google.github.io/styleguide/javaguide.html)
+
+[The Elements of Java Style, Al Vermeulen](https://google.github.io/styleguide/javaguide.html)
+
+[Importance of Code Quality and Coding Standard in Software Development, Multidots](https://www.multidots.com/importance-of-code-quality-and-coding-standard-in-software-development/)
+
+[Coding conventions (code style), Michael Ernst](https://homes.cs.washington.edu/~mernst/advice/coding-style.html)
