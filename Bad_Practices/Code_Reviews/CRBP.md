@@ -20,8 +20,8 @@ Feedback is useless if it is not taken to heart. When the review rounds and disc
 ____
 
 
-[The 4 Code Review Practices That Make Devs Quit.](https://blog.submain.com/code-review-practices/)
+[The 4 Code Review Practices That Make Devs Quit](https://blog.submain.com/code-review-practices/)
 
-[Unlearning toxic behaviors in a code review culture.](https://medium.com/@sandya.sankarram/unlearning-toxic-behaviors-in-a-code-review-culture-b7c295452a3c)
+[Unlearning toxic behaviors in a code review culture](https://medium.com/@sandya.sankarram/unlearning-toxic-behaviors-in-a-code-review-culture-b7c295452a3c)
 
-[How to sabotage a code review.](https://techbeacon.com/app-dev-testing/how-sabotage-code-review)
+[How to sabotage a code review](https://techbeacon.com/app-dev-testing/how-sabotage-code-review)
