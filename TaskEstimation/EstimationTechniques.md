@@ -16,3 +16,6 @@ Rather than using numbers like in planning poker, items can be classified using 
 
 There are also other techniques, like Affinity Estimation or Sorting Method. More info can be found [here](https://medium.com/@warren2lynch/top-7-most-popular-agile-estimation-methods-for-user-stories-69fccf5e418e).
 
+## Quick Links
+  * [Home Page](../ProjectPlan.md)
+  * [Task Estimation](TaskEstimation.md)
