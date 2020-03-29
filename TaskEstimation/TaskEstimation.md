@@ -17,6 +17,8 @@ This is where the team (or anyone in charge with this) will take an item from th
 
 Rather than using numbers like in planning poker, items can be classified using t-shirt sizes (e.g. XS,S,M,L,XL). In this technique team members would give each item a size and at the end compare all estimates given. If all estimates are the same, that is considered as the ideal size, if not, then discuss among the team to arrive at the same estimate.
 
+<img src="../TaskEstimation/Images/tshirt-size.png" alt="T-Shirt Size Image" width="400">
+
 ## Best Practices
 
 * **Engage the whole team**  
