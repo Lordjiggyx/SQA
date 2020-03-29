@@ -5,6 +5,12 @@
 It is the process of measuring the complexity (size) of stories in an Agile project.  
 The basic unit of measure is *Story Points* (SP). It is used to measure the size of the story, much the same like a kilogram is used to find out how heavy an object is.
 
+## Estimation Techniques
+
+### <ins>Planning Poker</ins>
+
+This is where the team (or anyone in charge with this) will take an item from the backlog and read and discuss it. All team members will then have to mentally estimate the difficulty and write down on a card or piece of paper. When everyone is done, all at once should show their cards. If everyone is in agreement, continue to do the same with the next task. If not, take some time to discuss and repeat the process.
+
 ## Best Practices
 
 * **Engage the whole team**  
