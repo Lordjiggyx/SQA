@@ -19,7 +19,9 @@ Rather than using numbers like in planning poker, items can be classified using 
 
 <img src="../TaskEstimation/Images/tshirt-size.png" alt="T-Shirt Size Image" width="400">
 
+### Other techniques
 
+There are also other techniques, like Affinity Estimation or Sorting Method. More info can be found [here](https://medium.com/@warren2lynch/top-7-most-popular-agile-estimation-methods-for-user-stories-69fccf5e418e).
 
 ## Best Practices
 
