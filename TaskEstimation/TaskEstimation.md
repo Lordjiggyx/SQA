@@ -7,7 +7,7 @@ The basic unit of measure is *Story Points* (SP). It is used to measure the size
 
 ## Estimation Techniques
 
-### <ins>Planning Poker</ins>
+### [Planning Poker](https://www.mountaingoatsoftware.com/agile/planning-poker)
 
 This is where the team (or anyone in charge with this) will take an item from the backlog and read and discuss it. All team members will then have to mentally estimate the difficulty and write down on a card or piece of paper. When everyone is done, all at once should show their cards. If everyone is in agreement, continue to do the same with the next task. If not, take some time to discuss and repeat the process.
 
