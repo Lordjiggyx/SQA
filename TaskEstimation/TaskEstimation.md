@@ -11,6 +11,8 @@ The basic unit of measure is *Story Points* (SP). It is used to measure the size
 
 This is where the team (or anyone in charge with this) will take an item from the backlog and read and discuss it. All team members will then have to mentally estimate the difficulty and write down on a card or piece of paper. When everyone is done, all at once should show their cards. If everyone is in agreement, continue to do the same with the next task. If not, take some time to discuss and repeat the process.
 
+<img src="../TaskEstimation/Images/planning-poker.png" alt="Planning Poker Image" width="400">
+
 ## Best Practices
 
 * **Engage the whole team**  
