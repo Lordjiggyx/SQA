@@ -16,6 +16,7 @@ A code review inolves checking for things like :
 
  * Code reviews make for better estimates. When a scrum team conducts their sprint planning they discuss the upcoming user stories and give an estimate of how much effort will be required to implement a feature. If only the original developer has seen the code that they have worked on. When a new feature is going to be added to their existing code it would be hard for the rest of the team to give feeback and a good estimate of how much effort will be required. However when code is reviewed on a regular basis each code reviewer has evaluated and looked at the complexity and the known issues concerning the area of the code base. This means that each reviewer will have knowledge of that part of the code base and can provide an informed and accurate estimate for the user story.
 
+ * Code reviews enable time off since knowledge is shared across the project amongst each team member through code reviews. Each member of the team will have have an understanding of what their peers are working on meaning there isn't a reliance on a single team member for a piece of code and that any other team member should be able to take over their work. Allowing for team members to take time off when needed.
 
  
 
