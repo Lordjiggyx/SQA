@@ -28,3 +28,16 @@
 * Each file will highlight best practices and possible benefits, of following these practices
 * Corresponding mistakes or bad practices for each topic will be in a seperate file accessed by a quick link
 * Images can be used but not nessecary if so an Images folder containing the images used in each topic file should be commited and pushed.
+
+
+## Style Guide
+* H1 for page title
+* H2 for sub-titles "Best Practices / Bad Practices / Benfits / References"
+* H3 for question before defintion e.g "What are Coding Standards"
+* Bullet points should not be numbered
+* Bullet points should not have any heading just bolded followed by text
+* "Home Page" Quick link should be in every file
+* Corresponding quick links between files should be placed to ease navigation
+
+
+
