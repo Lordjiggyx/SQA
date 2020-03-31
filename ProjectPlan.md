@@ -38,6 +38,6 @@
 * Bullet points should not have any heading just bolded followed by text
 * "Home Page" Quick link should be in every file
 * Corresponding quick links between files should be placed to ease navigation
- 
+* Center Images 
  
  
