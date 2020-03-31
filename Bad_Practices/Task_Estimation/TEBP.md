@@ -22,7 +22,6 @@ Most software development teams would rather under-promise and over-deliver rath
 
 ## References
 
-____
 
 [10 Reasons Why Software Estimates Fail](https://www.sitepoint.com/10-reasons-why-software-project-estimates-fail/)
 
