@@ -13,7 +13,7 @@ The slighest misspelling of a variable or a funcion can destroy your code and ca
  Code with consitent style is much easier to read and understand, allowing the individual reading the code to understand blocks of code better. Ensure that your code is properly formatted and properly indented.
 
 * **Bad Estimates**  
-  it's important to avoid the temptation to imagine that you'll catch up with your schedule later without adding people to the project. If you fall behind schedule, it's because your time estimates were wrong. That means you need to make a new estimate of the length of the project, not blindly stick to an estimate that has already been proven wrong.
+it's important to avoid the temptation to imagine that you'll catch up with your schedule later without adding people to the project. If you fall behind schedule, it's because your time estimates were wrong. That means you need to make a new estimate of the length of the project, not blindly stick to an estimate that has already been proven wrong.
 
 
  * **Testing**  
