@@ -43,6 +43,6 @@ Testing is critical to assessing how well your code works. Software that has not
 [Top 5 Bad Coding Practices.](https://dev.to/blarzhernandez/top-5-bad-coding-practices-avoid-them-to-all-costs-2ab3)
 
 ## Quick Links
-[Coding Standards](https://github.com/Lordjiggyx/SQA/blob/Develop/coding-standards/CodingStandards.md)
+[Coding Standards](../../coding-standards/CodingStandards.md)
 
-[Home Page](https://github.com/Lordjiggyx/SQA/tree/Develop)
+[Home Page](../../ProjectPlan.md)

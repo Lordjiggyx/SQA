@@ -25,9 +25,9 @@ ____
 This document will highlight the best and worst practices relating to developing software in a team
  
 **Topics Covered:**
-* [Task Estimation](../SQA/TaskEstimation/TaskEstimation.md)
-* [Coding Standards](../SQA/coding-standards/CodingStandards.md)
-* [Code Reviews](../SQA/CodeReviews/CodeReviews.md)
+* [Task Estimation](.//TaskEstimation/TaskEstimation.md)
+* [Coding Standards](./coding-standards/CodingStandards.md)
+* [Code Reviews](./CodeReviews/CodeReviews.md)
  
  
  
