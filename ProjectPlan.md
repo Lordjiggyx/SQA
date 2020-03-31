@@ -24,8 +24,8 @@
 
 
 ## Documents Format
-* Each file will have a definition of its corresponding topic
-* Each file will highlight best practices and possible benefits, of following these practices
+* Each topic will have a definition
+* Each topic will highlight best practices and possible benefits, of following these practices
 * Corresponding mistakes or bad practices for each topic will be in a separate file accessed by a quick link
 * Images can be used but not necessary if so an Images folder containing the images used in each topic file should be committed and pushed.
  
