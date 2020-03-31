@@ -10,7 +10,7 @@
 1. Task Estimation - Nicolai Bolan
 2. Coding Standards - Sean McElroy
 3. Code Reviews - Ronan Macken
-4. Document Presentation, Bad Practices, Referencing - Tomi Ilori
+4. Document Presentation, Bad Practices, Referencing , Introduction - Tomi Ilori
 
 ## Process & Tasks
 
@@ -21,3 +21,10 @@
 4. Pull requests will ve mad in order to review team members commits
 5. After rewview if no issues are present then pull request will be merged onto the develop branch
 6. Overall review will take place when document is complete.
+
+
+## Documents Format
+* Each file will have a definition of its corresponsindg topic
+* Each file will highlight best practices and possible benefits, of following these practices
+* Corresponding mistakes or bad practices for each topic will be in a seperate file accessed by a quick link
+* Images can be used but not nessecary if so an Images folder containing the images used in each topic file should be commited and pushed.
