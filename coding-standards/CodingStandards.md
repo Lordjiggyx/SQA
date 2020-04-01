@@ -2,6 +2,10 @@
 
 Coding standards or coding conventions are a tool used by software developers to enforce consistency among team members within a project. These standards include guidelines, best practices and conventions that programmers should adhere to. Every developer should follow some set of coding standards, whether working on a solo project or in a large team. Coding standards are very beneficial when working on software projects.
 
+<img src="images/checkstyle-intellij.png" alt="SonarQube image" width="400">
+
+---
+
 Benefits of implementing a Coding Standard
 
 - ### Readability.
@@ -24,19 +28,25 @@ Benefits of implementing a Coding Standard
 
 * ### Identify Problems.
 
-* Errors/bugs and other potential problems in the code are easier to identify when conventions are obeyed.
-* These bugs stick out within the code so easier to locate.
-* Future proofing due to early problem identification. Solving problems early can help prevents future problems.
+  - Errors/bugs and other potential problems in the code are easier to identify when conventions are obeyed.
+  - These bugs stick out within the code so easier to locate.
+  - Future proofing due to early problem identification. Solving problems early can help prevents future problems.
 
 - ### Reduced Refactoring needed.
 
-- Adhering to code rules allows you to have correct code the first time, or at least close to correct.
+  - Adhering to code rules allows you to have correct code the first time, or at least close to correct.
 
-\
+---
+
+### Guidelines
+
 When determining what coding standards, a team should implement, some things should be kept in mind.\
 Coding Standards should be very concise and not have personal opinions injected in. The goal of coding standards is to have a set of rules that each developer understands and ideally agrees with the reasoning plus enforcement of that rule. Implementing rules that are too restricting and tough to quantify are characteristics of bad coding standards. Good coding standards are easily understood and quantifiable.
 
-\
+---
+
+### Categories covered by coding standards
+
 The specific code styling varies from different organizations, programming languages as well as operating systems. The specific styling and rules chosen can be unique to any organization. There are some common areas/topics that coding standards cover.
 
 Common areas covered by coding conventions:
@@ -68,6 +78,8 @@ Common areas covered by coding conventions:
 
 \
 SonarQube is an automatic code review tool that detects bugs, vulnerabilities and other potential issues in source code. It can be used to assist in maintaining coding standards.
+
+<img src="images/sonarqube.png" alt="SonarQube image" width="400">
 
 ---
 
