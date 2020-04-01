@@ -88,6 +88,6 @@ SonarQube is an automatic code review tool that detects bugs, vulnerabilities an
 #### Quick Links
 
 - [Home Page](../ProjectPlan.md)
-- [Bad Practices](../Bad_Practices/Coding_Practies/CPBP.md)
+- [Bad Practices](BadPracticesCodingStandards.md)
 - [Task Estimation](../TaskEstimation/TaskEstimation.md)
 - [Code Reviews](../CodeReviews/CodeReviews.md)
