@@ -82,3 +82,12 @@ SonarQube is an automatic code review tool that detects bugs, vulnerabilities an
 [Importance of Code Quality and Coding Standard in Software Development, Multidots](https://www.multidots.com/importance-of-code-quality-and-coding-standard-in-software-development/)
 
 [Coding conventions (code style), Michael Ernst](https://homes.cs.washington.edu/~mernst/advice/coding-style.html)
+
+---
+
+#### Quick Links
+
+- [Home Page](../ProjectPlan.md)
+- [Bad Practices](../Bad_Practices/Coding_Practies/CPBP.md)
+- [Task Estimation](../TaskEstimation/TaskEstimation.md)
+- [Code Reviews](../CodeReviews/CodeReviews.md)
