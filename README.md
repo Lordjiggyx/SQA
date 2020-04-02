@@ -25,9 +25,10 @@ ____
 This document will highlight the best and worst practices relating to developing software in a team
  
 **Topics Covered:**
-* [Task Estimation](https://github.com/Lordjiggyx/SQA/blob/Develop/TaskEstimation/TaskEstimation.md)
-* [Coding Standards](https://github.com/Lordjiggyx/SQA/blob/Develop/coding-standards/CodingStandards.md)
-* [Code Reviews](https://github.com/Lordjiggyx/SQA/blob/Develop/CodeReviews/CodeReviews.md)
- 
+
+* [Task Estimation](.//TaskEstimation/TaskEstimation.md)
+* [Coding Standards](./coding-standards/CodingStandards.md)
+* [Code Reviews](./CodeReviews/CodeReviews.md)
+
  
  

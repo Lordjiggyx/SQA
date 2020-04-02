@@ -1,23 +1,35 @@
-## Mistakes to avoid when performing task estimation 
+## Bad Practices - Task Estimation
 
-____
+<p align="center">
+<img src="https://lh3.googleusercontent.com/proxy/AgZ6zYTfxiu1GT92r5D-09dXOSTam_eXgREeSoIAO2egX_37jMnf7TWtJEwvWs0FonCn2C49Uc-l0QHWoNhhlhk4HaPYFSRa64jPtahcBXjnaTZ11bS0Mjl0bZpQHb46cAaEJTsAgYVo" alt="T-Shirt Size Image" width="400">
+<p>
 
-### 1. Excesive Optismism
-Providing an estimation of time for how long it will take to complete tasks should be optimsitic with a certain level of confidence, however sometimes this optimism can lead to many issues. Developers tend to forget about many of the trivial parts of development process, meetings, absences, technical issues and much more.Care should be taken to not create estimates thinking in terms of _"Coding Hours"_.
 
-### 2. Disregard For Agile
+* **Excesive Optismism**  
+Providing an estimation of time for how long it will take to complete tasks should be optimsitic with a certain level of confidence, however sometimes this optimism can lead to many issues. Developers tend to forget about many of the trivial parts of development process, meetings, absences, technical issues and much more.Care should be taken to not create estimates thinking in terms of "Coding Hours".
+
+
+* **Disregard For Agile**  
 Project requirementsare almost never set in stone, there is always a chnache of the project scope changing. The customer could request another feature at a whims notice.Agile was created in order to contsantly monitor customer feedback throughtout the development process to get a good idea of where the product is heading allowing estimates to be revised frequently, making them more accurate. Not incorporating agile in your design process will lead to problems throughout the project as it will create a sense of rigidity, stopping features to be added and making estimates less accuarate.
 
+<p align="center">
+<img src="https://wiefling.com/wp-content/uploads/2015/06/Time_blog_June2015.png" alt="T-Shirt Size Image" width="400">
+<p>
 
-### 3. Proper Time Allocation
-Most software development teams would rather **under-promise** and **over-deliver** rather then **over-promise** and **under-deliver**, this is done to avoid the scenario of not developing something that was promsised. If an entire day is allocaed to a certain task, you are more then likely gping to spend the whole day completing atasj that could be done in less time due to this generous padding of time. Tasks should be broken down accurately and assessed properly in order to allocate the right amount of time
+
+* **Improper Time Allocation**  
+Most software development teams would rather under-promise and over-deliver rather then over-promise and under-deliver, this is done to avoid the scenario of not developing something that was promsised. If an entire day is allocaed to a certain task, you are more then likely gping to spend the whole day completing atasj that could be done in less time due to this generous padding of time. Tasks should be broken down accurately and assessed properly in order to allocate the right amount of time.
 
 ## References
 
-____
 
 [10 Reasons Why Software Estimates Fail](https://www.sitepoint.com/10-reasons-why-software-project-estimates-fail/)
 
 [SoftSoftware Estimation is a Losing Gameware](https://rclayton.silvrback.com/software-estimation-is-a-losing-game)
 
 [Time Estimation in Software Development](https://medium.com/globalluxsoft/time-estimation-in-software-development-a4a495c8eb6c)
+
+## Quick Links
+[Task Estimation](../../TaskEstimation/TaskEstimation.md)
+
+[Home Page](../../ProjectPlan.md)
