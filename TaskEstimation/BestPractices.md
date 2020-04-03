@@ -24,3 +24,7 @@
 
 * **Use non-linear scale**  
   It is better to use a non-linear scale such as in the Fibonacci sequence, (e.g. 1,4,9,16). That is because it is quite hard to judge the difference in a linear scale between 3 and 4 compared to judging the difference between  4 and 9. To avoid number bias, clothes sizes can also be used (e.g. S,M,L,XL).
+
+More information can be found in the following websites:
+* [Agile Estimation Best Practices](https://thedigitalbusinessanalyst.co.uk/best-practices-for-agile-estimation-a3d4435a776a)
+* [Top 10 Agile Estimation Best Practices](https://leadinganswers.typepad.com/leading_answers/files/top_10_agile_estimation_guidelines.pdf)
