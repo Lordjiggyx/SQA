@@ -18,3 +18,6 @@ More information about task estimation can be found [here](http://blog.scrumstud
 ### [Estimation Techniques](../TaskEstimation/EstimationTechniques.md)
 
 ### [Best Practices](BestPractices.md)
+
+## Quick Links
+  * [Home Page](../README.md)
