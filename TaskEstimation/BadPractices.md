@@ -29,6 +29,5 @@ Most software development teams would rather under-promise and over-deliver rath
 [Time Estimation in Software Development](https://medium.com/globalluxsoft/time-estimation-in-software-development-a4a495c8eb6c)
 
 ## Quick Links
-[Task Estimation](../../TaskEstimation/TaskEstimation.md)
-
-[Home Page](../../ProjectPlan.md)
+  * [Home Page](../README.md)
+  * [Task Estimation Home Page](TaskEstimation.md)
