@@ -13,6 +13,8 @@ A task is the main unit of planning and usually should have the following criter
 * Be small enough
 * Be testable
 
+More information about task estimation can be found [here](http://blog.scrumstudy.com/how-do-scrum-teams-estimate-tasks-in-a-project/) and [here](https://resources.collab.net/agile-101/feature-estimation-of-user-stories).
+
 ### [Estimation Techniques](../TaskEstimation/EstimationTechniques.md)
 
 ## Best Practices
