@@ -28,3 +28,7 @@
 More information can be found in the following websites:
 * [Agile Estimation Best Practices](https://thedigitalbusinessanalyst.co.uk/best-practices-for-agile-estimation-a3d4435a776a)
 * [Top 10 Agile Estimation Best Practices](https://leadinganswers.typepad.com/leading_answers/files/top_10_agile_estimation_guidelines.pdf)
+
+## Quick Links
+  * [Home Page](../README.md)
+  * [Task Estimation Home Page](TaskEstimation.md)
