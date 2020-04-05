@@ -35,3 +35,16 @@ SonarQube is an automatic code review tool that detects bugs, vulnerabilities an
 <img src="images/sonarqube.png" alt="SonarQube image" width="400">
 
 ---
+
+#### Quick Links
+
+- [Home Page](../README.md)
+- [Coding Standards Home Page](CodingStandards.md)
+
+---
+
+#### References
+
+[Google Java Style Guide, Google](https://google.github.io/styleguide/javaguide.html)
+
+[The Elements of Java Style, Al Vermeulen](http://ungrid.unal.edu.co/ungrid/docs/sg246895.pdf)
