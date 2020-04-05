@@ -6,10 +6,10 @@
 
 - ### Poor Documentaion
 
-  Developers tend to get caught up in the process of coding majority of the time that theu foten forget to document it. Often you will forget what your code does or how it does things or even the approach of hiw you came up with this solution. Including documentaion helps with reusability and maintenance of your code and makes it easy for others to understand.
+  Developers tend to get caught up in the process of coding that they often forget documentation. Often you will forget what exactly all your code does or the approach you took to achieve the solution. Including documentaion helps with reusability and maintenance of your code and makes it easy for others to understand.
 
 - ### No Modularisation
-  Functions/Methods should perform one task and one task only this helps them to kept short making it easier to maintian. This means that disclosure of needless information is avodied and emphasises the **_DRY (Don't Repeat Yourself)_** belief eridicating repetitive code.
+  Functions/Methods should perform one task and one task only, this helps them to be kept as small as possible improving maintainability. This means that disclosure of needless information is avoided and it emphasises the **_DRY (Don't Repeat Yourself)_** belief, eradicating repetitive code.
 
 <p align="center">
 <img src="images/never-make-typos.jpg" alt="I never make typos" width="400">
@@ -17,21 +17,21 @@
 
 - ### Code Typos
 
-  The slighest misspelling of a variable or a funcion can destroy your code and cause multiple run-time errors. They are also not easy to spot. Make sure variable names tahta re easy to spell and incorporate a good **_IDE (Integrated Devlopment Environment)_** that can reduce spelling errors.
+  The slighest misspelling of a variable or a funcion can destroy your code and cause multiple run-time errors. They are often not easy to spot. Ensure variable names are easy to spell, awell try to incorporate a good **_IDE (Integrated Devlopment Environment)_** that can fix syntax errors.
 
-- ### Not Following Styling Guides\*\*
+- ### Not Following Styling Guides
 
-  Code with consitent style is much easier to read and understand, allowing the individual reading the code to understand blocks of code better. Ensure that your code is properly formatted and properly indented.
+  Code with consitent style is much easier to read and understand, enabling the reader to understand blocks of code. Your code should be  formatted correctly and indented.
 
 - ### Bad Estimates
-  it's important to avoid the temptation to imagine that you'll catch up with your schedule later without adding people to the project. If you fall behind schedule, it's because your time estimates were wrong. That means you need to make a new estimate of the length of the project, not blindly stick to an estimate that has already been proven wrong.
+  It is important to avoid the temptation to imagine that you'll catch up with your schedule later without adding people to the project. If you fall behind schedule, it's because your time estimates were wrong. That means you need to make a new estimate of the predicted completion time, not blindly stick to an estimate that has already been proven inaccurate.
 
 <p align="center">
-<img src="https://miro.medium.com/max/3840/1*AjI-6OHQ_MHw1XGfOEvPtg.jpeg" alt="T-Shirt Size Image" width="400">
+<img src="https://miro.medium.com/max/3840/1*AjI-6OHQ_MHw1XGfOEvPtg.jpeg" alt="Bug Identified" width="400">
 </p>
 
 - ### Testing
-  Testing is critical to assessing how well your code works. Software that has not been tested can lead to devestating results upon release. While testing often relies on automated tools and specialized staff, developers should take an active role in the process. They should test each iteration to ensure that it meets the necessary requirements,. Many developers would think testing as a waste of time and would lead to extra time bein added onto the timeframe given to complete the project but as they say _"Better safe then sorry"_.
+  Testing is critical to assessing how well your code works. Software that has not been tested can lead to devastating results upon release. While testing often relies on automated tools and specialized staff, developers should take an active role in the process. They should test each iteration to ensure that it meets the necessary requirements. Many developers believe testing is a waste of time and would lead to unnecessary extensions on to the timeframe given to complete the project, but as they say _"Better safe then sorry"_.
 
 ---
 
