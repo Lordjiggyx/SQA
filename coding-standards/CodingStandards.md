@@ -2,11 +2,13 @@
 
 Coding standards or coding conventions are a tool used by software developers to enforce consistency among team members within a project. These standards include guidelines, best practices and conventions that programmers should adhere to. Every developer should follow some set of coding standards, whether working on a solo project or in a large team. Coding standards are very beneficial when working on software projects.
 
-<img src="images/checkstyle-intellij.png" alt="CheckStyle image" width="400">
+<p align="center">
+<img src="images/coding-standards-feature.png" alt="Coding standards feature" width="400">
+</p>
 
 ---
 
-Benefits of implementing a Coding Standard
+### Benefits of implementing Coding Standards
 
 - ### Readability.
 
@@ -36,6 +38,10 @@ Benefits of implementing a Coding Standard
 
   - Adhering to code rules allows you to have correct code the first time, or at least close to correct.
 
+<p align="center">
+ <img src="images/checkstyle-intellij.png" alt="CheckStyle image" width="400">
+</p>
+
 ---
 
 ### Guidelines
@@ -48,8 +54,8 @@ Coding Standards should be very concise and not have personal opinions injected 
 #### Quick Links
 
 - [Home Page](../README.md)
-- [Bad Practices](BadPracticesCodingStandards.md)
 - [Categories](CategoriesCodingStandards.md)
+- [Bad Practices](BadPracticesCodingStandards.md)
 
 ---
 

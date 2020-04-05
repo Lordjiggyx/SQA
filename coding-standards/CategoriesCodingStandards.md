@@ -2,7 +2,9 @@
 
 The specific code styling varies from different organizations, programming languages as well as operating systems. The specific styling and rules chosen can be unique to any organization. There are some common areas/topics that coding standards cover.
 
-Common areas covered by coding conventions:
+---
+
+### Common areas covered by coding conventions:
 
 - ### Naming.
 
@@ -29,10 +31,15 @@ Common areas covered by coding conventions:
   - Includes formatting conventions. Indentations, Line breaks, whitespaces etc.
   - Must be peer reviewed to ensure it’s easily comprehended by human readers.
 
-\
+---
+
+#### SonarQube
+
 SonarQube is an automatic code review tool that detects bugs, vulnerabilities and other potential issues in source code. It can be used to assist in maintaining coding standards.
 
+<p align="center">
 <img src="images/sonarqube.png" alt="SonarQube image" width="400">
+</p>
 
 ---
 

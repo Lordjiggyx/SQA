@@ -1,8 +1,8 @@
-## Bad Practicess - Coding Standards
+## Bad Practices - Coding Standards
 
 <p align="center">
-<img src="https://www.docupile.com/wp-content/uploads/2018/10/poor-documentation.jpg" alt="T-Shirt Size Image" width="400">
-<p>
+<img src="images/bad-practices-feature.jpg" alt="Bad practices Feature paper" width="400">
+</p>
 
 - ### Poor Documentaion
 
@@ -12,8 +12,8 @@
   Functions/Methods should perform one task and one task only this helps them to kept short making it easier to maintian. This means that disclosure of needless information is avodied and emphasises the **_DRY (Don't Repeat Yourself)_** belief eridicating repetitive code.
 
 <p align="center">
-<img src="https://automationpanda.files.wordpress.com/2017/04/9083244097_5d44793865_z-640x360.jpg?w=620" alt="T-Shirt Size Image" width="400">
-<p>
+<img src="images/never-make-typos.jpg" alt="I never make typos" width="400">
+</p>
 
 - ### Code Typos
 
@@ -28,7 +28,7 @@
 
 <p align="center">
 <img src="https://miro.medium.com/max/3840/1*AjI-6OHQ_MHw1XGfOEvPtg.jpeg" alt="T-Shirt Size Image" width="400">
-<p>
+</p>
 
 - ### Testing
   Testing is critical to assessing how well your code works. Software that has not been tested can lead to devestating results upon release. While testing often relies on automated tools and specialized staff, developers should take an active role in the process. They should test each iteration to ensure that it meets the necessary requirements,. Many developers would think testing as a waste of time and would lead to extra time bein added onto the timeframe given to complete the project but as they say _"Better safe then sorry"_.
@@ -37,9 +37,9 @@
 
 #### Quick Links
 
-[Coding Standards](../../coding-standards/CodingStandards.md)
+[Home Page](../README.md)
 
-[Home Page](../../ProjectPlan.md)
+[Coding Standards Home Page](CodingStandards.md)
 
 ---
 
