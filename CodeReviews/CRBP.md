@@ -30,6 +30,6 @@ Feedback is useless if it is not taken to heart. When the review rounds and disc
 [How to sabotage a code review](https://techbeacon.com/app-dev-testing/how-sabotage-code-review)
 
 ## Quick Links
-[Code Review](../../CodeReviews/CodeReviews.md)
+[Code Review](../CodeReviews/CodeReviews.md)
 
 [Home Page](../../ProjectPlan.md)
