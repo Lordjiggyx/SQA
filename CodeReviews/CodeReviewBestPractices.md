@@ -1,7 +1,7 @@
 # Best Practices 
 
  <p align="center">
-<img src="Images/cleancodereview.png" alt="Defects Density vs Lines of code per hour" width="400">
+<img src="Images/cleancodereview.png" alt="Clean code" width="400">
 </p>
 
 ### Communicate clear goals and expectations of reviewers  
@@ -41,7 +41,7 @@
  A code reviewer should take the time to carry out a slow and thorough review. However this should take no more than 60-90 minutes according to study's carried out by IBM and others it has been shown that after 60 minutes reviewers tend to get tired and stop finding additional defects/issues with the code.
 
  <p align="center">
-<img src="Images/image002.gif" alt="Defects Density vs Lines of code per hour" width="400">
+<img src="Images/linesofcodegraph.gif" alt="Defects Density vs Lines of code per hour" width="400">
 </p>
 
  #### Fast Responses
