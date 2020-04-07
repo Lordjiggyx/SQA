@@ -76,8 +76,8 @@ Including everyone in the review process no matter what their seniority as a dev
 
  ## Quick Links
   * [Home Page](../README.md)
-  * [Code Review Home Page](CodeReviews.md)
-  * [Bad Practices](CRBP.md)
+  * [Code Review Home Page](./CodeReviews.md)
+  * [Bad Practices](./CRBP.md)
 
 
 
