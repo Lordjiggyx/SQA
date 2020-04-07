@@ -1,5 +1,9 @@
 # Best Practices 
 
+ <p align="center">
+<img src="images/cleancodereview.png" alt="Defects Density vs Lines of code per hour" width="400">
+</p>
+
 ### Communicate clear goals and expectations of reviewers  
  To ensure that reviews are consistent Reviewers should be given a checklist of what to look for during a review. The checklist should contain the following critrea of what they should be looking for as reviewers :
 
@@ -53,4 +57,20 @@
 
   #### Encourage Developers to simplify code
   Asking a developer to simplify their code or to add comments to it will usually result in them rewriting their code more clearly making it easier to understand. Which far more beneficial for the health of the project as it will be easier later on if someone else is working with that part of the code base rather than just explaining it to you within the confines of the review.
+
+
+### Handling Developer push back on a review
+A Developer will not always agree with your review which can lead to unnecessary conflict if not handled correctly there are key things you need to take into account to handle this correctly which are :
+
+ #### Consider whether they are correct
+  * Does their argument for not making your suggested changes make sense?
+  * Does it make sense from code health perspective?
+  If that is the case let them know you agree and drop your review.
+
+ #### Ask for further explanation  
+ If you are not convinced by their argument for not accepting your review ask them for further explanation on why they believe they're correct. If you are still not convinced by their argument believing your suggestion and the additional work involved is worth the benefit it will provide to the project continue to push for the developer to accept your review and make the changes.
+
+### Include Everyone in the review process
+Including everyone in the review process no matter what their seniority as a developer is helps promote collaboration and relationships between the team members enhancing the team's cohesion. Also as mentioned before in code review benefits knowing that every other team member will be looking at your code will encourage you to make sure code is of a higher standard when it's being put up for a review.
+
 
