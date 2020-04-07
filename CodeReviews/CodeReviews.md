@@ -23,11 +23,22 @@ A code review involves checking for things like :
  
 #### Code reviews enable time off
  * Since knowledge is shared across the project amongst each team member through code reviews. Each member of the team will have have an understanding of what their peers are working on meaning there isn't a reliance on a single team member for a piece of code and that any other team member should be able to take over their work. Allowing for team members to take time off when needed.
-
-
-
-
  
 
 
+## Quick Links
+  * [Home Page](../README.md)
+  * [Best Practices](CodeReviewBestPractices.md)
+  * [Bad Practices](CRBP.md)
 
+
+
+#### References
+
+[Why code reviews matter (and actually save time!),Dan Radigan](https://www.atlassian.com/agile/software-development/code-reviews)
+
+[10 Reasons Why Code Reviews Make Better Code and Better Teams, Herbert Bodner](https://simpleprogrammer.com/why-code-reviews-make-better-code-teams/)
+
+[What is Code Review?](https://smartbear.com/learn/code-review/what-is-code-review/)
+
+[5 Reasons for Software Developers to Do Code Reviews (Even If You Think They're a Waste of Time, Esther Schindler)](https://www.cio.com/article/2431556/5-reasons-for-software-developers-to-do-code-reviews-even-if-you-think-they-re-a-waste-of.html)
