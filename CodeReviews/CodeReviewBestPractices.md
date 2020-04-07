@@ -24,7 +24,7 @@
 
  #### Style 
 * Is the code consistent with the style guide? 
- This is important for maintaining consistency and helps with readibility across the project.
+ This is important for maintaining consistency and helps with readability across the project.
 
  #### Complexity 
 * Is the code more complex than it need to be?
