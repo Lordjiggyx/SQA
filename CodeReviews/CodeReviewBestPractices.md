@@ -74,3 +74,17 @@ A Developer will not always agree with your review which can lead to unnecessary
 Including everyone in the review process no matter what their seniority as a developer is helps promote collaboration and relationships between the team members enhancing the team's cohesion. Also as mentioned before in code review benefits knowing that every other team member will be looking at your code will encourage you to make sure code is of a higher standard when it's being put up for a review.
 
 
+ ## Quick Links
+  * [Home Page](../README.md)
+  * [Code Review Home Page](CodeReviews.md)
+  * [Bad Practices](CRBP.md)
+
+
+
+#### References
+
+[11 proven practices for more effective, efficient peer code review, Jason Cohen](https://www.ibm.com/developerworks/rational/library/11-proven-practices-for-peer-review/)
+
+[Google's Engineering Practices documentation](https://google.github.io/eng-practices/review/)
+
+[9 Best Practices for Code Review, Richard Bellairs](https://www.perforce.com/blog/qac/9-best-practices-for-code-review)
