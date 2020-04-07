@@ -40,5 +40,17 @@
 <img src="images/image002.png" alt="Defects Density vs Lines of code per hour" width="400">
 </p>
 
- ### Fast Responses
+ #### Fast Responses
  Individual responses to code reviews should come as fast as possible but not at the expense of the quality of the review as this could result in the code being below standard. As the whole review process may take time it is important that the developer whose code is being reviewed receives a response asap from the individual reviewers. This eases the frustration that the developer may get from "slow" code reviews. You obviously don't have to carry out the full review straight away if you are too busy to so but responding when you can and letting the developer know you will get to it later when you have time or recommending another reviewer who may be able to respond more quickly. Will let the developer know that the reviewers aren't ignoring them.
+
+### How to write comments for a code review
+  
+  #### Balance giving directions
+  Remember it is not your job to provide a full solution for the developer make sure there is a balance between simply pointing out problems for them to fix and giving explicit instructions on how to fix. This is especially important when mentoring new developers as denying them the opportunity to learn from their mistakes can hinder their development.
+
+  #### Give credit when credit is due
+  Make sure not to just critique your colleagues if you found how they've written their code or how they implemented a functionality to be good/clever let them know. This again can be good for mentoring newer developers as it offers encouragement, they can learn from what they did right and not just hear about what they've done wrong.
+
+  #### Encourage Developers to simplify code
+  Asking a developer to simplify their code or to add comments to it will usually result in them rewriting their code more clearly making it easier to understand. Which far more beneficial for the health of the project as it will be easier later on if someone else is working with that part of the code base rather than just explaining it to you within the confines of the review.
+
