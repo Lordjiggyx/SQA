@@ -5,7 +5,7 @@
 </p>
 
 ### Communicate clear goals and expectations of reviewers  
- To ensure that reviews are consistent Reviewers should be given a checklist of what to look for during a review. The checklist should contain the following critrea of what they should be looking for as reviewers :
+ To ensure that reviews are consistent Reviewers should be given a checklist of what to look for during a review. The checklist should contain the following criteria of what they should be looking for as reviewers :
 
  #### Design 
 * When looking at the design of the code the reviewer should be asking themselves these questions :
