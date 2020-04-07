@@ -12,7 +12,7 @@ The team should decide on how they want to style their code, your teams code sho
 
 
 * **Meaningful comments**  
-If a person makes an error while programming it is almost certain that this error has been repeated across in other parts. When reviewing others code do not point out every occurence of the error instead leave a detailed not explaining the overall issue. It is essential to reply to all comments in order to ensure that the review process is actually being completed.
+If a person makes an error while programming it is almost certain that this error has been repeated across in other parts. When reviewing others code do not point out every occurrence of the error instead leave a detailed not explaining the overall issue. It is essential to reply to all comments in order to ensure that the review process is actually being completed.
 
 <p align="center">
 <img src="https://miro.medium.com/max/1400/1*UbeT74oIf3JlX1YRu90EKA.jpeg" alt="T-Shirt Size Image" width="400" center>
