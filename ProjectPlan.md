@@ -40,4 +40,8 @@
 * Corresponding quick links between files should be placed to ease navigation
 * Center Images 
  
- 
+  ## What would we do differently the next time?
+* Take advantage of more of GitHub features. E.g. Add reviewers to a pull request, use the approve option to approve a pull request and add labels to a pull request.
+* Don't delete merged feature branches, leave them for a longer time so that any issues can be traced back to specific branches and be resolved.
+* Install spell checker extension to avoid spelling errors.
+* Let 2 or more people work on the same branch if necessary, instead of creating separate files or folders and then having to move things around in a separate pull request.
