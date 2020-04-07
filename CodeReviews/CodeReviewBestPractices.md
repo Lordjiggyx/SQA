@@ -11,7 +11,7 @@
 * When looking at the design of the code the reviewer should be asking themselves these questions :
 
  * Does the change belong in the code base or in a library.
- * How well does it intergrate with the rest of the system.
+ * How well does it integrate with the rest of the system.
  * Do interactions of different pieces of code make sense.
 
  #### Functionality 
