@@ -1,4 +1,4 @@
-# Bad Practices - Code Reviwes
+# Bad Practices - Code Reviews
 
 * **Review Code Not People**  
 When reviewing others code it is best to remember that it is not a competition to see who can code better. Software developers are often proud of thier solutions and take criticism personally on occasion. Reviews help us see how others thought process occurs and feedback gievn should be constructive uplifing and insightful to help others program more efficiently. Be careful to always provide feedback that does not question the person but questions how and why they created a solution the way they did.
