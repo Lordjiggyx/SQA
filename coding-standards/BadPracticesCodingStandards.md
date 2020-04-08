@@ -27,7 +27,7 @@
   It is important to avoid the temptation to imagine that you'll catch up with your schedule later without adding people to the project. If you fall behind schedule, it's because your time estimates were wrong. That means you need to make a new estimate of the predicted completion time, not blindly stick to an estimate that has already been proven inaccurate.
 
 <p align="center">
-<img src="https://miro.medium.com/max/3840/1*AjI-6OHQ_MHw1XGfOEvPtg.jpeg" alt="Bug Identified" width="400">
+<img src="images/bug-found.jpeg" alt="Bug Identified" width="400">
 </p>
 
 - ### Testing
