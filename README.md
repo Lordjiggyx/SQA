@@ -28,9 +28,9 @@ This document will highlight the best and worst practices relating to developing
  
 **Topics Covered:**
 
-* [Task Estimation](.//TaskEstimation/TaskEstimation.md)
-* [Coding Standards](./coding-standards/CodingStandards.md)
-* [Code Reviews](./CodeReviews/CodeReviews.md)
+* [Task Estimation](TaskEstimation/TaskEstimation.md)
+* [Coding Standards](coding-standards/CodingStandards.md)
+* [Code Reviews](CodeReviews/CodeReviews.md)
 
  
  
