@@ -51,4 +51,4 @@
 * Make use of github "projects" tab , this would have allowed us plan the document better and see what tasks are in the process of being completed or have been completed.
 
 ## Quick Links
-  * [Home Page](../README.md)
+  * [Home Page](README.md)
