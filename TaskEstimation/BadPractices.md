@@ -1,4 +1,4 @@
-# Bad Practices
+# Bad Practices - Task Estimation
 
 * **Excessive Optimism**  
 Providing an estimation of time for how long it will take to complete tasks should be optimistic with a certain level of confidence, however sometimes this optimism can lead to many issues. Developers tend to forget about many of the trivial parts of development process, meetings, absences, technical issues and much more.Care should be taken to not create estimates thinking in terms of "Coding Hours".
