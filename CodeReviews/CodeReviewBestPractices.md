@@ -5,7 +5,7 @@
 </p>
 
 ### Communicate clear goals and expectations of reviewers  
- To ensure that reviews are consistent Reviewers should be given a checklist of what to look for during a review. The checklist should contain the following critrea of what they should be looking for as reviewers :
+ To ensure that reviews are consistent Reviewers should be given a checklist of what to look for during a review. The checklist should contain the following criteria of what they should be looking for as reviewers :
 
  #### Design 
 * When looking at the design of the code the reviewer should be asking themselves these questions :
@@ -40,16 +40,11 @@
    * Does it make sense from code health perspective?
    If that is the case let them know you agree and drop your review otherwise continue to advocate your change and ask for further explanation
 
-
-
  ## Quick Links
   * [Home Page](../README.md)
   * [Code Review Home Page](CodeReviews.md)
   * [Bad Practices](CRBP.md)
   
-
-
-
 #### References
 
 [11 proven practices for more effective, efficient peer code review, Jason Cohen](https://www.ibm.com/developerworks/rational/library/11-proven-practices-for-peer-review/)
