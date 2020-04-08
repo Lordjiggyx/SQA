@@ -4,7 +4,7 @@
 When reviewing others code it is best to remember that it is not a competition to see who can code better. Software developers are often proud of their solutions and take criticism personally on occasion. Reviews help us see how others thought process occurs and feedback given should be constructive uplifting and insightful to help others program more efficiently. Be careful to always provide feedback that does not question the person but questions how and why they created a solution the way they did. However if the developer has done something right and you found how they've written their code or how they implemented a functionality to be good/clever let them know.
 
 <p align="center">
-<img src="vscode.jpg" alt="VsCode" width="400">
+<img src="Images/vscode.jpg" alt="VsCode" width="400">
 <p>
 
 * **Styling Conventions**  
@@ -17,11 +17,17 @@ It is essential to reply to all comments in order to ensure that the review proc
 
 
 <p align="center">
-<img src="codereviewflow.jpg" alt="Code review flow" width="400" center>
+<img src="Images/codereviewflow.jpg" alt="Code review flow" width="400" center>
 <p>
 
 * **Follow Up on Feedback**  
 Feedback is useless if it is not taken to heart. When the review rounds and discussions have finished make sure that you follow up on what was agreed upon. This means making changes to your code and triggering another round of reviews for people to have a look at the newest changes. The same principle of properly splitting up and documenting your commits applies here. If you don’t agree with a given comment don’t be afraid to challenge it, productive discussions are beneficial for each party involved.
+
+## Quick Links
+[Code Review](CodeReviews.md)
+
+[Home Page](../README.md)
+
 
 ## References
 
@@ -31,7 +37,3 @@ Feedback is useless if it is not taken to heart. When the review rounds and disc
 
 [How to sabotage a code review](https://techbeacon.com/app-dev-testing/how-sabotage-code-review)
 
-## Quick Links
-[Code Review](CodeReviews.md)
-
-[Home Page](../README.md)
