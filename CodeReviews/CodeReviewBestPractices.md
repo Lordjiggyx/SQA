@@ -1,4 +1,4 @@
-# Best Practices 
+# Best Practices for Code Review
 
  <p align="center">
 <img src="Images/cleancodereview.png" alt="Clean code" width="400">
@@ -43,7 +43,7 @@
  ## Quick Links
   * [Home Page](../README.md)
   * [Code Review Home Page](CodeReviews.md)
-  * [Bad Practices](CRBP.md)
+  * [Bad Practices](CodeReviewBadPractices.md)
   
 #### References
 
