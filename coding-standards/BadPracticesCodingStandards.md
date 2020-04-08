@@ -5,10 +5,11 @@
 </p>
 
 - ### Poor Documentaion
-Developers tend to get caught up in the process of coding that they often forget documentation. Often you will forget what exactly all your code does or the approach you took to achieve the solution. Including documentation helps with reusability and maintenance of your code and makes it easy for others to understand.
+
+  Developers tend to get caught up in the process of coding that they often forget documentation. Often you will forget what exactly all your code does or the approach you took to achieve the solution. Including documentaion helps with reusability and maintenance of your code and makes it easy for others to understand.
 
 - ### No Modularisation
-Functions/Methods should perform one task and one task only, this helps them to be kept as small as possible improving maintainability. This means that disclosure of needless information is avoided and it emphasises the DRY (Don't Repeat Yourself) belief, eradicating repetitive code.
+  Functions/Methods should perform one task and one task only, this helps them to be kept as small as possible improving maintainability. This means that disclosure of needless information is avoided and it emphasises the **_DRY (Don't Repeat Yourself)_** belief, eradicating repetitive code.
 
 <p align="center">
 <img src="images/never-make-typos.jpg" alt="I never make typos" width="400">
@@ -16,7 +17,7 @@ Functions/Methods should perform one task and one task only, this helps them to 
 
 - ### Code Typos
 
-  The slightest misspelling of a variable or a function can destroy your code and cause multiple run-time errors. They are often not easy to spot. Ensure variable names are easy to spell, as well try to incorporate a good **_IDE (Integrated Development Environment)_** that can fix syntax errors.
+  The slighest misspelling of a variable or a funcion can destroy your code and cause multiple run-time errors. They are often not easy to spot. Ensure variable names are easy to spell, awell try to incorporate a good **_IDE (Integrated Devlopment Environment)_** that can fix syntax errors.
 
 - ### Not Following Styling Guides
 
