@@ -43,7 +43,7 @@
  ## Quick Links
   * [Home Page](../README.md)
   * [Code Review Home Page](CodeReviews.md)
-  * [Bad Practices](CRBP.md)
+  * [Bad Practices](CodeReviewBadPractices.md)
   
 #### References
 
