@@ -23,6 +23,11 @@ It is essential to reply to all comments in order to ensure that the review proc
 * **Follow Up on Feedback**  
 Feedback is useless if it is not taken to heart. When the review rounds and discussions have finished make sure that you follow up on what was agreed upon. This means making changes to your code and triggering another round of reviews for people to have a look at the newest changes. The same principle of properly splitting up and documenting your commits applies here. If you don’t agree with a given comment don’t be afraid to challenge it, productive discussions are beneficial for each party involved.
 
+## Quick Links
+[Code Review](CodeReviews.md)
+
+[Home Page](../README.md)
+
 ## References
 
 [The 4 Code Review Practices That Make Devs Quit](https://blog.submain.com/code-review-practices/)
@@ -30,8 +35,3 @@ Feedback is useless if it is not taken to heart. When the review rounds and disc
 [Unlearning toxic behaviors in a code review culture](https://medium.com/@sandya.sankarram/unlearning-toxic-behaviors-in-a-code-review-culture-b7c295452a3c)
 
 [How to sabotage a code review](https://techbeacon.com/app-dev-testing/how-sabotage-code-review)
-
-## Quick Links
-[Code Review](CodeReviews.md)
-
-[Home Page](../README.md)
