@@ -3,11 +3,11 @@
 ## Members
 * Tomi Ilori
 * Sean McElroy
-* Nicolai Bolan
+* Nicolai Boian
 * Ronan Macken
 
 ## Topics
-1. Task Estimation - Nicolai Bolan
+1. Task Estimation - Nicolai Boian
 2. Coding Standards - Sean McElroy
 3. Code Reviews - Ronan Macken
 4. Document Presentation, Bad Practices, Referencing, Introduction - Tomi Ilori
