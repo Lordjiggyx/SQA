@@ -10,16 +10,16 @@
 1. Task Estimation - Nicolai Bolan
 2. Coding Standards - Sean McElroy
 3. Code Reviews - Ronan Macken
-4. Document Presentation, Bad Practices, Referencing , Introduction - Tomi Ilori
+4. Document Presentation, Bad Practices, Referencing, Introduction - Tomi Ilori
 
 ## Process & Tasks
 
-**These are the steps that we plan to exceute to compkete this project**
+**These are the steps that we plan to execute to complete this project**
 1. Each member will fork and clone the repository to their local device and configure their branches
-2. Each member will create a feauture branch which will be named afer a topic
+2. Each member will create a feature branch which will be named after a topic
 3. Each member will work on a certain topic making regular commits and pushing their changes
-4. Pull requests will ve mad in order to review team members commits
-5. After rewview if no issues are present then pull request will be merged onto the develop branch
+4. Pull requests will be mad in order to review team members commits
+5. After review if no issues are present then pull request will be merged onto the develop branch
 6. Overall review will take place when document is complete.
 
 
@@ -40,4 +40,12 @@
 * Corresponding quick links between files should be placed to ease navigation
 * Center Images 
  
- 
+  ## What would we do differently the next time?
+* Take advantage of more of GitHub features. E.g. Add reviewers to a pull request, use the approve option to approve a pull request and add labels to a pull request.
+* Don't delete merged feature branches, leave them for a longer time so that any issues can be traced back to specific branches and be resolved.
+* Install spell checker extension to avoid spelling errors.
+* Let 2 or more people work on the same branch if necessary, instead of creating separate files or folders and then having to move things around in a separate pull request.
+* Discuss style guide at the start to avoid having to largely remodel document.
+* Use one folder for images to prevent images files from not loading due to being in different directories.
+* Make more commits in a feature branch and then in pull request describe the changes made, more clearly rather than having multiple feature branches.
+* Make use of github "projects" tab , this would have allowed us plan the document better and see what tasks are in the process of being completed or have been completed.
