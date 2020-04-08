@@ -4,9 +4,9 @@
 <img src="images/bad-practices-feature.jpg" alt="Bad practices Feature paper" width="400">
 </p>
 
-- ### Poor Documentaion
+- ### Poor Documentation
 
-  Developers tend to get caught up in the process of coding that they often forget documentation. Often you will forget what exactly all your code does or the approach you took to achieve the solution. Including documentaion helps with reusability and maintenance of your code and makes it easy for others to understand.
+  Developers tend to get caught up in the process of coding that they often forget documentation. Often you will forget what exactly all your code does or the approach you took to achieve the solution. Including documentation helps with reusability and maintenance of your code and makes it easy for others to understand.
 
 - ### No Modularisation
   Functions/Methods should perform one task and one task only, this helps them to be kept as small as possible improving maintainability. This means that disclosure of needless information is avoided and it emphasises the **_DRY (Don't Repeat Yourself)_** belief, eradicating repetitive code.
@@ -17,11 +17,11 @@
 
 - ### Code Typos
 
-  The slighest misspelling of a variable or a funcion can destroy your code and cause multiple run-time errors. They are often not easy to spot. Ensure variable names are easy to spell, awell try to incorporate a good **_IDE (Integrated Devlopment Environment)_** that can fix syntax errors.
+  The slightest misspelling of a variable or a function can destroy your code and cause multiple run-time errors. They are often not easy to spot. Ensure variable names are easy to spell, also try to incorporate a good **_IDE (Integrated Development Environment)_** that can fix syntax errors.
 
 - ### Not Following Styling Guides
 
-  Code with consitent style is much easier to read and understand, enabling the reader to understand blocks of code. Your code should be  formatted correctly and indented.
+  Code with consistent style is much easier to read and understand, enabling the reader to understand blocks of code. Your code should be  formatted correctly and indented.
 
 - ### Bad Estimates
   It is important to avoid the temptation to imagine that you'll catch up with your schedule later without adding people to the project. If you fall behind schedule, it's because your time estimates were wrong. That means you need to make a new estimate of the predicted completion time, not blindly stick to an estimate that has already been proven inaccurate.
