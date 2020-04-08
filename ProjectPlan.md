@@ -48,4 +48,7 @@
 * Discuss style guide at the start to avoid having to largely remodel document.
 * Use one folder for images to prevent images files from not loading due to being in different directories.
 * Make more commits in a feature branch and then in pull request describe the changes made, more clearly rather than having multiple feature branches.
-* Make use of GitHub "projects" tab , this would have allowed us plan the document better and see what tasks are in the process of being completed or have been completed.
+* Make use of github "projects" tab , this would have allowed us plan the document better and see what tasks are in the process of being completed or have been completed.
+
+## Quick Links
+  * [Home Page](../README.md)
