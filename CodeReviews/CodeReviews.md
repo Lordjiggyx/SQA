@@ -25,7 +25,7 @@ A code review involves checking for things like :
 ## Quick Links
   * [Home Page](../README.md)
   * [Best Practices](CodeReviewBestPractices.md)
-  * [Bad Practices](CRBP.md)
+  * [Bad Practices](CodeReviewBadPractices.md)
 
 
 
