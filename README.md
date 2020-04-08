@@ -22,7 +22,9 @@ However with these benefits also comes problems, as expected one must determine 
  
 ### Software Quality Handbook
 ____
-This document will highlight the best and worst practices relating to developing software in a team
+This document will highlight the best and worst practices relating to developing software in a team.
+
+[Project Plan](ProjectPlan.md)
  
 **Topics Covered:**
 
