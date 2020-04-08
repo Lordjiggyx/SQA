@@ -1,4 +1,4 @@
-# Best Practices 
+# Best Practices for Code Review
 
  <p align="center">
 <img src="Images/cleancodereview.png" alt="Clean code" width="400">
