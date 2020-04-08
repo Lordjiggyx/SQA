@@ -45,3 +45,7 @@
 * Don't delete merged feature branches, leave them for a longer time so that any issues can be traced back to specific branches and be resolved.
 * Install spell checker extension to avoid spelling errors.
 * Let 2 or more people work on the same branch if necessary, instead of creating separate files or folders and then having to move things around in a separate pull request.
+* Discuss style guide at the start to avoid having to largely remodel document.
+* Use one folder for images to prevent images files from not loading due to being in different directories.
+* Make more commits in a feature branch and then in pull request describe the changes made, more clearly rather than having multiple feature branches.
+* Make use of github "projects" tab , this would have allowed us plan the document better and see what tasks are in the process of being completed or have been completed.
